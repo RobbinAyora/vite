@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "intasend-node": "^1.0.8",
+    "react-router-dom": "^6.23.0"
+  }
+}
